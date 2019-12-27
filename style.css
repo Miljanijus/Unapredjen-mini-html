@@ -1,0 +1,45 @@
+body {
+    background-color:gray;
+    text-align: center;
+    padding: 0px 200px 0px 200px;
+}
+#nav{
+    
+    padding-top: 10px;
+    color: lightsteelblue;
+    text-align: left;
+}
+.select{
+    color: olive;
+    
+}
+a{
+    font-size: larger;
+    font-style: italic;
+}
+
+
+#nav ul{
+    list-style-type: none;
+    float:top;
+    padding: 0px 200px 0px 200px;
+    background-color: black;
+    width: 720px;
+    height: 50px;
+}
+#nav li{
+    text-decoration: none;
+    float: left;
+    margin: 15px;
+    text-align: center;
+}
+#nav li:hover{
+    background-color:blanchedalmond;
+}
+
+#content{
+    background-color: blanchedalmond;
+}
+#footer{
+    background-color: blanchedalmond;
+}
